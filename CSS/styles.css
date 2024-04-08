@@ -1,0 +1,56 @@
+header {
+  background-color: rgb(214, 117, 6);
+  color: black;
+  width: 830px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.HandwerkErleben {display: flex;
+justify-content: center;
+color: rgb(218, 193, 32) ;}
+
+head {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.nav-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+body {
+  background-color: #0d0806;
+  padding: ;
+}
+
+main {
+  background-color: chocolate;
+}
+
+.HändeNagel {
+bottom: 20px;
+}
+
+footer {
+  background-color: rgb(172, 62, 3);
+  position: fixed
+  bottom: 20px;
+  /*
+  position: sticky
+bottom: 20px;
+z-index: 1 */
+}
